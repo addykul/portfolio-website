@@ -16,7 +16,7 @@ export default function Contact() {
           kulkarniaditya2099@gmail.com
         </a>
         <a
-          href="https://github.com/Aditya20kul"
+          href="https://github.com/addykul"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-flex items-center gap-2 px-4 py-2 rounded-lg bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-200 hover:bg-slate-200 dark:hover:bg-slate-700 hover:border-teal-400/30 border border-transparent transition-colors"
